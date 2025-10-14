@@ -17,7 +17,7 @@ To run this Laravel app, you need to have the following software installed on yo
    ```
 2. Change into the project directory:
     ```bash
-    cd laravel_api
+    cd API-add-Post-login-page
     ```
 
 3. Install PHP dependencies:
